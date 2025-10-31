@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm <Andika Lubis> (they/them)
 
-<!--
-**Andikalubis/Andikalubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Dev, maker & occasional writer. I build small useful things and ship them.
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/<username>?label=Follow&style=social)](https://github.com/<username>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact)](https://github.com/<username>)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Projects
+- 💡 **<Project 1>** — one-liner about what it does
+- 🚀 **<Project 2>** — one-liner + link
+
+## 📬 Connect
+- Twitter: [@<handle>](https://twitter.com/<handle>)
+- Email: <email@example.com>
