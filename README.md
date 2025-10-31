@@ -46,7 +46,7 @@ For me, great code is like great design — **clean, purposeful, and full of cha
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,nextjs,react,php,laravel,python,flask,postgresql,mysql,tailwind,bootstrap,js,jquery,figma,ai" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CodeIgniter_logo.svg" width="45" height="45" title="CodeIgniter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="45" height="45" title="CodeIgniter" />
 </p>
 
 ---
