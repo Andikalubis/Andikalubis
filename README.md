@@ -1,9 +1,4 @@
-<!-- 🌙 Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/ZxFjK0z.gif" alt="Coding at night" width="100%" />
-</p>
-
-<h1 align="center">👋 Halo, Saya <span style="color:#00b4d8;">Anandika Lubis</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Anandika Lubis</span></h1>
 <h3 align="center">💻 Full Stack Web Developer | 💡 Co-Founder @ <a href="https://pookuscreative.com/">Pookus Creative</a></h3>
 
 <p align="center">
@@ -15,42 +10,39 @@
 
 ---
 
-### ✨ Tentang Saya  
+### ✨ About Me  
 
-Saya adalah seorang **Full Stack Web Developer** yang menikmati proses membangun aplikasi dari ide hingga siap digunakan.  
-Saya percaya bahwa **kode yang baik itu seperti desain yang bagus — fungsional, bersih, dan memiliki karakter.**  
+I’m a **Full Stack Web Developer** who loves turning ideas into real, functional web experiences.  
+For me, great code is like great design — **clean, purposeful, and full of character.**  
 
-🚀 Saat ini saya mengembangkan berbagai sistem web di **Pookus Creative**, terutama pada bidang **teknologi medis dan solusi bisnis digital**.  
-🎯 Fokus saya ada di:  
+🚀 Currently building modern web systems at **Pookus Creative**, where we focus on **medical technology and digital business solutions**.  
+🌙 Most of my coding happens late at night — that’s when creativity flows best.  
+
+🎯 Main stack & tools:  
 > Next.js • Go • PostgreSQL • TailwindCSS • CodeIgniter • Flask • OpenCV • Figma  
 
 ---
 
-### 💼 Proyek Unggulan  
+### 💼 Featured Projects  
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
       <h4>🩺 SMC (Sistem Medical Checkup)</h4>
-      <p>Full web system untuk manajemen medical checkup di luar rumah sakit.</p>
+      <p>A complete web platform for managing external medical checkup operations.</p>
       <p><b>Tech:</b> Next.js, Go, PostgreSQL</p>
     </td>
-    <td width="33%">
+    <td width="50%">
       <h4>🤖 Object Detection App</h4>
-      <p>Aplikasi berbasis web untuk pelacakan objek secara real-time menggunakan kamera.</p>
+      <p>Real-time object tracking system using YOLOv12n and OpenCV for web-based analysis.</p>
       <p><b>Tech:</b> Flask, YOLOv12n, OpenCV</p>
-    </td>
-    <td width="33%">
-      <h4>🧠 Expert System</h4>
-      <p>Sistem pendukung keputusan berbasis AI untuk diagnosis medis awal.</p>
-      <p><b>Tech:</b> Python, Naive Bayes</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧠 Teknologi yang Saya Gunakan  
+### 🧠 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,nextjs,react,php,codeigniter,python,flask,postgresql,mysql,tailwind,bootstrap,js,jquery,figma,ai" />
@@ -58,12 +50,7 @@ Saya percaya bahwa **kode yang baik itu seperti desain yang bagus — fungsional
 
 ---
 
-### 📊 Statistik GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andikalubis&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andikalubis&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andikalubis&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
@@ -71,7 +58,7 @@ Saya percaya bahwa **kode yang baik itu seperti desain yang bagus — fungsional
 
 ---
 
-### 🌍 Hubungi Saya  
+### 🌍 Connect With Me  
 
 <p align="center">
   <a href="https://pookuscreative.com/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -82,12 +69,7 @@ Saya percaya bahwa **kode yang baik itu seperti desain yang bagus — fungsional
 
 ---
 
-### 💬 Kutipan Favorit  
-> *“Desain yang baik tak terlihat — tapi dampaknya terasa.”*  
+### 💬 Personal Quote  
+
+> *“Code isn’t just logic — it’s creativity structured into motion.”*  
 > — 💙 *Anandika Lubis*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andikalubis&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
