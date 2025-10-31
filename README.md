@@ -19,7 +19,7 @@ For me, great code is like great design — **clean, purposeful, and full of cha
 🌙 Most of my coding happens late at night — that’s when creativity flows best.  
 
 🎯 Main stack & tools:  
-> Next.js • Go • PostgreSQL • TailwindCSS • CodeIgniter • Flask • OpenCV • Figma  
+> Next.js • Go • PostgreSQL • TailwindCSS • CodeIgniter • Laravel • Flask • OpenCV • Figma  
 
 ---
 
@@ -45,7 +45,8 @@ For me, great code is like great design — **clean, purposeful, and full of cha
 ### 🧠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nextjs,react,php,codeigniter,python,flask,postgresql,mysql,tailwind,bootstrap,js,jquery,figma,ai" />
+  <img src="https://skillicons.dev/icons?i=go,nextjs,react,php,laravel,python,flask,postgresql,mysql,tailwind,bootstrap,js,jquery,figma,ai" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/CodeIgniter_logo.svg" width="45" height="45" title="CodeIgniter" />
 </p>
 
 ---
