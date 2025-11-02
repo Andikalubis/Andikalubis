@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Anandika Lubis</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Andika Lubis</span></h1>
 <h3 align="center">💻 Full Stack Web Developer | 💡 Co-Founder @ <a href="https://pookuscreative.com/">Pookus Creative</a></h3>
 
 <p align="center">
@@ -67,10 +67,3 @@ For me, great code is like great design — **clean, purposeful, and full of cha
   <a href="https://www.instagram.com/pookus.creative/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:anandika217@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-### 💬 Personal Quote  
-
-> *“Code isn’t just logic — it’s creativity structured into motion.”*  
-> — 💙 *Anandika Lubis*
