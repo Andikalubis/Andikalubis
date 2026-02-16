@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Andika Lubis</span></h1>
-<h3 align="center">💻 Full Stack Web Developer | 💡 Co-Founder @ <a href="https://pookuscreative.com/">Pookus Creative</a></h3>
+<h3 align="center">💻 Full Stack Web Developer | 💡 @ <a href="https://pookuscreative.com/">Pookus Creative</a></h3>
 
 <p align="center">
   <a href="mailto:anandika217@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
