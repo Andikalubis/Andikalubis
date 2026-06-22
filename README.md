@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andika Lubis 👋</h1>
+<h1 align="center">Hi, I'm Andika👋</h1>
 
 <p align="center">
   <b>Full Stack Engineer</b> • Building Scalable Web Applications, Business Systems, and Digital Products
