@@ -129,8 +129,6 @@ I'm always open to discussing:
 
 💼 **LinkedIn:** linkedin.com/in/anandika
 
-🌐 **Portfolio / Company:** pookuscreative.com
-
 ---
 
 <p align="center">
