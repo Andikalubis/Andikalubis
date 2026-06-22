@@ -1,61 +1,138 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Andika Lubis</span></h1>
-<h3 align="center">💻 Full Stack Web Developer</h3>
+<h1 align="center">Hi, I'm Andika Lubis 👋</h1>
 
 <p align="center">
-  <a href="mailto:anandika217@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anandika"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/pookus.creative/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://pookuscreative.com/"><img src="https://img.shields.io/badge/Website-1B1F23?style=flat&logo=vercel&logoColor=white"/></a>
+  <b>Full Stack Engineer</b> • Building Scalable Web Applications, Business Systems, and Digital Products
+</p>
+
+<p align="center">
+  <a href="mailto:anandika217@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anandika">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pookus.creative/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### ✨ About Me  
+## 🚀 About Me
 
-I’m a **Full Stack Web Developer** who loves turning ideas into real, functional web experiences.  
-For me, great code is like great design — **clean, purposeful, and full of character.**  
+I'm a Full Stack Engineer passionate about building reliable, scalable, and user-focused applications.
 
-🚀 Currently building modern web systems at **Pookus Creative**, where we focus on **medical technology and digital business solutions**.  
-🌙 Most of my coding happens late at night — that’s when creativity flows best.  
+Over the years, I've worked on healthcare platforms, internal business systems, customer portals, and operational dashboards. I enjoy transforming complex business processes into intuitive digital experiences that teams actually enjoy using.
 
-🎯 Main stack & tools:  
-> Next.js • Go • PostgreSQL • TailwindCSS • CodeIgniter • Laravel • Flask • OpenCV • Figma  
+Currently focused on:
 
----
-
-### 💼 Featured Projects  
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🩺 SMC (Sistem Medical Checkup)</h4>
-      <p>A complete web platform for managing external medical checkup operations.</p>
-      <p><b>Tech:</b> Next.js, Go, PostgreSQL</p>
-    </td>
-    <td width="50%">
-      <h4>🤖 Object Detection App</h4>
-      <p>Real-time object tracking system using YOLOv12n and OpenCV for web-based analysis.</p>
-      <p><b>Tech:</b> Flask, YOLOv12n, OpenCV</p>
-    </td>
-  </tr>
-</table>
+* Building enterprise-grade web applications
+* Designing scalable frontend architectures
+* Developing backend services and APIs
+* Creating efficient business workflows
+* Exploring practical AI integrations
 
 ---
 
-### 🧠 Tech Stack  
+## 🛠 Core Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nextjs,react,php,laravel,python,flask,postgresql,mysql,tailwind,bootstrap,js,jquery,figma,ai" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="45" height="45" title="CodeIgniter" />
+### Frontend Engineering
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Design System Implementation
+* Microfrontend Architecture
+* Module Federation
+* Responsive & Accessible UI
+
+### Backend Engineering
+
+* Go
+* Laravel
+* CodeIgniter
+* Flask
+* REST API Development
+* Authentication & Authorization
+* System Integration
+
+### Data & Infrastructure
+
+* PostgreSQL
+* MySQL
+* Docker
+* Linux
+* Git
+* CI/CD Workflow
+
+---
+
+## 💼 Featured Work
+
+### 🩺 SMC — Medical Checkup Management Platform
+
+A comprehensive healthcare platform designed to streamline external medical checkup operations, participant management, scheduling, examination workflows, and reporting.
+
+**Stack:** Next.js • Go • PostgreSQL
+
+---
+
+### 🤖 AI Object Detection Platform
+
+A real-time object detection and tracking application leveraging computer vision for monitoring and analysis.
+
+**Stack:** Flask • OpenCV • YOLO
+
+---
+
+### 🏢 Enterprise Business Systems
+
+Developed internal platforms, operational dashboards, customer portals, and business process automation solutions used to improve efficiency and decision-making.
+
+**Stack:** Next.js • Laravel • CodeIgniter • PostgreSQL
+
+---
+
+## 📚 Technologies I Work With
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,go,php,laravel,python,flask,postgresql,mysql,docker,git,linux,figma,tailwind" />
+
 </p>
 
 ---
 
-### 🌍 Connect With Me  
+## 🎯 Current Interests
+
+* Frontend Architecture
+* Microfrontend Ecosystems
+* System Design
+* Healthcare Technology
+* AI-Powered Applications
+* Product Engineering
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing:
+
+* Web Development
+* Software Architecture
+* Healthcare Technology
+* Frontend Engineering
+* Collaboration Opportunities
+
+📧 **[anandika217@gmail.com](mailto:anandika217@gmail.com)**
+
+💼 **LinkedIn:** linkedin.com/in/anandika
+
+🌐 **Portfolio / Company:** pookuscreative.com
+
+---
 
 <p align="center">
-  <a href="https://pookuscreative.com/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anandika"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/pookus.creative/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:anandika217@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <i>"Great software isn't just about writing code — it's about solving real problems in a way people love to use."</i>
 </p>
